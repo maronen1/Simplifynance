@@ -129,14 +129,14 @@ p.paragraph span.link:hover {
 
 /* Common Elements */
 
-div.rule hr {
-  border-top-width: 2px;
-  border-top-color: #008000;
-}
-
 div.rule {
   margin-right: auto;
   margin-left: auto;
+}
+
+div.rule hr {
+  border-top-width: 2px;
+  border-top-color: #008000;
 }
 
 div.rule.h3-underline {
@@ -148,6 +148,30 @@ div.rule.h3-underline {
 
 div.rule.h3-underline.light hr {
   border-top-color: #fff;
+}
+
+div.rule2 {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+div.rule2 hr {
+  border-top-width: 2px;
+  border-top-color: #808080;
+}
+
+div.rule2.h3-underline {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  max-width: 80px;
+  width: 100%;
+}
+
+div.rule2.h3-underline {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  max-width: 80px;
+  width: 100%;
 }
 
 /* Interaction Elements */
