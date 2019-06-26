@@ -9,9 +9,6 @@
   gtag('js', new Date());
   gtag('config', 'UA-111554580-2');
   gtag('config', 'AW-975746539');
-  ga(function(tracker) {
-  clientId = tracker.get('clientId');
-  alert(clientId);})
 </script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
@@ -41,6 +38,12 @@
 </head>
 
 <body class="RDS100213 RMCONTENT RDUI_1580418_1521718529 version2">
+<script>
+ga(function(tracker) {
+  console.log(tracker.get('clientId'));
+  /* Your other code here */
+});
+</script>
 <div id="body" class="general desktop  backgroundcolor1"><div id="content"><div class=" bodyarea section " style="">
 <iframe src="nav.html" height="210" width="100%" frameBorder="0"></iframe>
 
