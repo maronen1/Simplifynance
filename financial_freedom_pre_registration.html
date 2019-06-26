@@ -9,6 +9,10 @@
   gtag('js', new Date());
   gtag('config', 'UA-111554580-2');
   gtag('config', 'AW-975746539');
+  ga(function(tracker) {
+  var clientId = tracker.get('clientId');
+  });
+  alert(ga(tracker()));
 </script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
