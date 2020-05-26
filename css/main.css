@@ -19,7 +19,7 @@ h3.light {
 }
 
 h3.heading-1 {
-  color: #008000;
+  color: #55718e;
 }
 
 h5.instructional-heading {
@@ -136,7 +136,7 @@ div.rule {
 
 div.rule hr {
   border-top-width: 2px;
-  border-top-color: #008000;
+  border-top-color: #55718e;
 }
 
 div.rule.h3-underline {
