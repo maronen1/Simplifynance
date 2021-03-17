@@ -5,7 +5,7 @@ h3 {
   margin-right: auto;
   margin-left: auto;
   max-width: 800px;
-  color: #008000;
+  color: #829F16;
   text-align: center;
   text-transform: none;
   font-weight: 400;
@@ -19,7 +19,7 @@ h3.light {
 }
 
 h3.heading-1 {
-  color: #55718e;
+  color: #829F16;
 }
 
 h5.instructional-heading {
@@ -52,7 +52,7 @@ p.paragraph.table-labels {
   float: left;
   max-width: none;
   width: 25%;
-  color: #008000;
+  color: #829F16;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 15px;
@@ -68,7 +68,7 @@ p.paragraph.copyright {
 }
 
 p.paragraph a.link-color {
-  color: #008000;
+  color: #829F16;
 }
 
 p.paragraph span.strong {
@@ -95,7 +95,7 @@ p.paragraph.table-element {
 }
 
 p.paragraph span.link {
-  color: #007f67;
+  color: #829F16;
 }
 
 p.paragraph.light {
@@ -117,13 +117,13 @@ p.paragraph.paragraph-1 {
 }
 
 p.paragraph a.link-color:hover {
-  color: #008000;
+  color: #829F16;
   text-decoration: underline;
   text-transform: none;
 }
 
 p.paragraph span.link:hover {
-  color: #00c49f;
+  color: #829F16;
   text-decoration: none;
 }
 
@@ -136,7 +136,7 @@ div.rule {
 
 div.rule hr {
   border-top-width: 2px;
-  border-top-color: #55718e;
+  border-top-color: #829F16;
 }
 
 div.rule.h3-underline {
@@ -197,7 +197,7 @@ button[type=submit].button-submit-1 {
 }
 
 button[type=submit]:hover {
-  background-color: #60d89c;
+  background-color: #829F16;
   color: #fff;
 }
 
@@ -236,7 +236,7 @@ a.link-button.nav-item {
 a.link-button.table-button {
   padding: 15px;
   width: 25%;
-  background-color: #008000;
+  background-color: #829F16;
   color: #fff;
   font-family: 'Roboto', sans-serif;
   line-height: 1.2;
@@ -255,7 +255,7 @@ a.link-button.disabled.table-button {
 }
 
 a.link-button {
-  background-color: #0ea360;
+  background-color: #829F16;
   color: #4d4d4d;
   text-transform: uppercase;
   font-weight: 700;
@@ -277,7 +277,7 @@ a.link-button:hover {
 
 a.link-button.nav-item:hover {
   padding-top: 12px;
-  color: #008000;
+  color: #829F16;
   opacity: 1;
   -webkit-transition-duration: .1s;
      -moz-transition-duration: .1s;
@@ -306,7 +306,7 @@ input[type=text]:focus {
   border-right-width: 0;
   border-right-style: solid;
   border-bottom-width: 2px;
-  border-bottom-color: #91ffc8;
+  border-bottom-color: #829F16;
   border-left-width: 0;
   border-left-style: solid;
   box-shadow: none;
@@ -335,7 +335,7 @@ input[type=email]:focus {
   border-top-style: none;
   border-right-width: 0;
   border-right-style: none;
-  border-bottom: 2px solid #91ffc8;
+  border-bottom: 2px solid #829F16;
   border-left-width: 0;
   border-left-style: none;
   box-shadow: none;
@@ -366,7 +366,7 @@ textarea:focus {
   border-top: 0 none transparent;
   border-right: 0 none transparent;
   border-bottom-width: 2px;
-  border-bottom-color: #91ffc8;
+  border-bottom-color: #829F16;
   border-left: 0 none transparent;
   box-shadow: none;
   color: #fff;
@@ -374,7 +374,7 @@ textarea:focus {
 
 label.label {
   margin-top: 30px;
-  color: #91ffc8;
+  color: #829F16;
   text-align: left;
   font-weight: 400;
   font-size: 17px;
@@ -382,7 +382,7 @@ label.label {
 }
 
 label.label.label-2 {
-  color: #91ffc8;
+  color: #829F16;
 }
 
 /* Layout Elements */
@@ -421,7 +421,7 @@ body > .row > [class*='coffee-span-'].contact {
   margin-top: 0;
   padding-right: 0;
   padding-left: 0;
-  background-color: #009a62;
+  background-color: #829F16;
   background-image: url('../background-contact.gif');
   background-size: cover;
 }
@@ -515,8 +515,8 @@ body > .row.table {
   margin-bottom: 70px;
   padding: 30px 20px 20px;
   max-width: 1200px;
-  border-top: 3px double #3a9d7f;
-  border-bottom: 3px double #3a9d7f;
+  border-top: 3px double #829F16;
+  border-bottom: 3px double #829F16;
 }
 
 body > .row > [class*='coffee-span-'].gallery {
@@ -584,7 +584,7 @@ a.social-image.social {
   border-top-right-radius: 6px 6px;
   border-bottom-right-radius: 6px 6px;
   border-bottom-left-radius: 6px 6px;
-  background-color: #43a473;
+  background-color: #829F16;
   -webkit-transition-duration: .2s;
      -moz-transition-duration: .2s;
       -ms-transition-duration: .2s;
